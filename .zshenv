@@ -1,1 +1,1 @@
-. "$HOME/.cargo/env"
+/nix/store/2an2xfxx4g56j8syr2vxq5hyhjjbig2b-home-manager-files/.zshenv
